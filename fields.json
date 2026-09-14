@@ -1,0 +1,1350 @@
+{
+  "slug": "d1-training",
+  "brand": "D1 Training",
+  "field_count": 217,
+  "franchiseFee": 59500,
+  "totalInvestmentMin": 480557,
+  "totalInvestmentMax": 933432,
+  "royaltyPercent": "7%",
+  "totalUnits": 165,
+  "openLocations": 165,
+  "corporateCity": "Franklin",
+  "corporateState": "TN",
+  "corporateZip": "37067",
+  "corporateAddress": "7115 S. Springs Drive, Franklin, Tennessee 37067",
+  "description": "D1 Training is an athletic-based training franchise founded in 2001 by former NFL player Will Bartholomew. Headquartered in Franklin, Tennessee, D1 operates training facilities for scholastic athletes ages 7-18 and adults, modeled on Division 1 strength and conditioning principles across five core tenets: dynamic warm-up, performance, strength, core and conditioning, and cool down. The franchisor, D1 Sports Franchise, LLC, began offering franchises in 2015 and is backed by Princeton Equity Group. Per the 2025 FDD, the franchise fee is $59,500, total initial investment ranges from $480,557 to $933,432, royalties are 7% of gross sales, and Item 19 reports average 2024 gross revenue of $679,601 across 31 substantially similar franchised locations. The system grew to 129 outlets by end of 2024 and surpassed 165 training facilities nationwide by end of 2025, earning a fourth straight Entrepreneur Franchise 500 ranking.",
+  "category": "Fitness / Athletic Training",
+  "websiteUrl": "https://d1training.com",
+  "yearFounded": 2014,
+  "fddYear": 2025,
+  "territoryDescription": "Non-exclusive designated territory: 0.20 to 3-mile radius around the approved Premises, based on household/population density; site selection area of roughly 7,500-20,000 households.",
+  "item12": "non-exclusive",
+  "item20PinCount": 8,
+  "hq_source": "fdd-item-1 (FDD Item 1, p.1)",
+  "risk_score": 54,
+  "pins": [
+    {
+      "city": "Birmingham",
+      "state": "AL",
+      "latitude": 33.55367,
+      "longitude": -86.81899,
+      "pin_source": "FDD Exhibit G operational franchisee, Birmingham AL 35216; geocoded city centroid"
+    },
+    {
+      "city": "Rogers",
+      "state": "AR",
+      "latitude": 36.33493,
+      "longitude": -94.14634,
+      "pin_source": "FDD Exhibit G operational franchisee, Rogers AR 72758; geocoded city centroid"
+    },
+    {
+      "city": "Chandler",
+      "state": "AZ",
+      "latitude": 33.29778,
+      "longitude": -111.9019,
+      "pin_source": "FDD Exhibit G operational franchisee, Chandler AZ 85286; geocoded city centroid"
+    },
+    {
+      "city": "Scottsdale",
+      "state": "AZ",
+      "latitude": 33.49156,
+      "longitude": -111.92612,
+      "pin_source": "FDD Exhibit G operational franchisee, Scottsdale AZ 85254; geocoded city centroid"
+    },
+    {
+      "city": "Mission Viejo",
+      "state": "CA",
+      "latitude": 33.56056,
+      "longitude": -117.66755,
+      "pin_source": "FDD Exhibit G operational franchisee, Mission Viejo CA 92691; geocoded city centroid"
+    },
+    {
+      "city": "Pleasanton",
+      "state": "CA",
+      "latitude": 37.65849,
+      "longitude": -121.88422,
+      "pin_source": "FDD Exhibit G operational franchisee, Pleasanton CA 94588; geocoded city centroid"
+    },
+    {
+      "city": "Littleton",
+      "state": "CO",
+      "latitude": 39.6133,
+      "longitude": -105.00441,
+      "pin_source": "FDD Exhibit G operational franchisee, Littleton CO 80127; geocoded city centroid"
+    },
+    {
+      "city": "Tallahassee",
+      "state": "FL",
+      "latitude": 30.40652,
+      "longitude": -84.28233,
+      "pin_source": "FDD Exhibit G operational franchisee, Tallahassee FL 32308; geocoded city centroid"
+    }
+  ],
+  "fields": {
+    "franchisor_legal_name": {
+      "value": "D1 Sports Franchise, LLC",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "franchisor_entity_type": {
+      "value": "Tennessee limited liability company",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "franchisor_formed_date": {
+      "value": "2014-12-04",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_address": {
+      "value": "7115 S. Springs Drive, Franklin, Tennessee 37067",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_phone": {
+      "value": "(615) 933-5653",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_city": {
+      "value": "Franklin",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_state": {
+      "value": "TN",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_zip": {
+      "value": "37067",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "dba_name": {
+      "value": "D1",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "operates_other_concepts": {
+      "value": "No — formed to offer, sell and service franchises for D1 Training Facilities only",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "parent_name": {
+      "value": "D1 New HoldCo, LLC",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "parent_entity_type": {
+      "value": "Delaware limited liability company",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "parent_formed_date": {
+      "value": "2021-10-22",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "holdco_acquisition_date": {
+      "value": "2021-10-29",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "former_parent": {
+      "value": "D1 Sports Parent, LLC",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "ultimate_owners": {
+      "value": "D1 Aggregator LLC and D1 PepHoldCo LLC",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "pe_affiliate": {
+      "value": "Princeton Equity Group, LLC",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2"
+    },
+    "pe_affiliate_address": {
+      "value": "47 Hulfish Street, Suite 305, Princeton, New Jersey 08542",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2"
+    },
+    "affiliate_corporate_outlets": {
+      "value": "D1 Sports Corporate, LLC, formed 2023-06-02, owns and operates corporate-owned outlets",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "affiliate_gps": {
+      "value": "D1 GPS, LLC, formed 2025-01-16, gym operator software system",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "affiliate_cpm": {
+      "value": "D1 Sports CPM, LLC, formed 2024-09-10, construction project management (required vendor)",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "affiliate_equipment": {
+      "value": "D1 Sports Equipment, LLC, formed 2024-09-10, required equipment supplier",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2"
+    },
+    "affiliate_strive": {
+      "value": "D1 Strive Training, LLC, formed 2024-09-23, personal-training-only businesses",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2"
+    },
+    "affiliate_strive_franchise": {
+      "value": "D1 Strive Franchise, LLC, formed 2025-04-14, intends to franchise personal-training-only concept",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2"
+    },
+    "affiliate_hq_services": {
+      "value": "D1 Sports HQ, LLC, formed 2016-04-15, provides personnel for franchisor obligations",
+      "type": "absolute",
+      "item": "FDD Item 1, p.2"
+    },
+    "franchisor_formed_year": {
+      "value": 2014,
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "brand_founded_year": {
+      "value": 2001,
+      "type": "absolute",
+      "item": "d1franchise.com press (non-FDD): founded 2001 by former NFL player Will Bartholomew"
+    },
+    "year_franchising_began": {
+      "value": 2015,
+      "type": "absolute",
+      "item": "FDD Item 1, p.4 — began offering franchises May 14, 2015"
+    },
+    "prototype_size_sqft": {
+      "value": "4,000 to 5,000; average go-forward site approximately 4,300",
+      "type": "absolute",
+      "item": "FDD Item 1, p.4"
+    },
+    "prototype_min_racks": {
+      "value": 7,
+      "type": "absolute",
+      "item": "FDD Item 7, p.18 — minimum of 7 squat racks"
+    },
+    "business_description": {
+      "value": "Training facilities offering athletic-based scholastic and adult group training, coaching and personal training, and related goods and services, under the D1 Marks",
+      "type": "absolute",
+      "item": "FDD Item 1, p.4"
+    },
+    "market_competition": {
+      "value": "Highly competitive: group/individual fitness, strength training, coaching, fitness classes, sports apparel and related services",
+      "type": "absolute",
+      "item": "FDD Item 1, p.4"
+    },
+    "area_development_available": {
+      "value": "Yes, at franchisor discretion under an Area Development Agreement",
+      "type": "absolute",
+      "item": "FDD Item 1, p.4"
+    },
+    "fdd_issue_date": {
+      "value": "2025-09-16",
+      "type": "absolute",
+      "item": "FDD cover page"
+    },
+    "fdd_original_issue_date": {
+      "value": "2025-04-18",
+      "type": "absolute",
+      "item": "FDD cover page"
+    },
+    "fdd_amendment_date": {
+      "value": "2025-08-25",
+      "type": "absolute",
+      "item": "FDD cover page"
+    },
+    "fdd_registration_states": {
+      "value": "CA FL IL IN MI MD MN ND NY RI SD UT WI and the Non-Reg States",
+      "type": "absolute",
+      "item": "FDD cover page"
+    },
+    "ceo_name": {
+      "value": "Will Bartholomew",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "ceo_since": {
+      "value": "November 2014 (inception)",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "ceo_other_roles": {
+      "value": "CEO of Strive Franchise, GPS, CPM, D1 Equipment, D1 Strive; President of Parent since 2012",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "coo_name": {
+      "value": "Dan Murphy",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "coo_since": {
+      "value": "November 2016; President from inception to November 2016",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "cco_name": {
+      "value": "Elliot Capner",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "cco_since": {
+      "value": "January 2025; previously CCO/COO at F45 Training",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "vp_operations_name": {
+      "value": "Austin Clark",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "vp_franchise_development_name": {
+      "value": "Julie Bauer",
+      "type": "absolute",
+      "item": "FDD Item 2, p.5"
+    },
+    "litigation_pending_count": {
+      "value": 6,
+      "type": "absolute",
+      "item": "FDD Item 3, pp.6-8 — six disclosed pending matters"
+    },
+    "litigation_1": {
+      "value": "D1 Sports Franchise, LLC v. Alex Nicholas, Chase Howard, Francesco Amati, Joel Wildman and D1 North Naples, LLC, AAA Case No. 012500017990 (filed 2025-04-10)",
+      "type": "absolute",
+      "item": "FDD Item 3, p.6"
+    },
+    "litigation_2": {
+      "value": "Nicholas v. D1 Sports Franchise, LLC and Franchise Fastlane, LLC, Case No. 25CV-199 (Circuit Court, Williamson County, TN, filed 2025-04-01)",
+      "type": "absolute",
+      "item": "FDD Item 3, p.6"
+    },
+    "litigation_3": {
+      "value": "Ostrow, et al. v. Bauer, et al., Case No. 25CV-166 (Circuit Court, Williamson County, TN, filed 2025-03-25)",
+      "type": "absolute",
+      "item": "FDD Item 3, p.6"
+    },
+    "litigation_4": {
+      "value": "William James Beckham III, et al. v. D1 Sports Franchise, LLC, Case No. 25CV-290 (Circuit Court, Williamson County, TN, filed 2025-05-19); damages claimed exceed $4 million",
+      "type": "absolute",
+      "item": "FDD Item 3, p.6"
+    },
+    "litigation_5": {
+      "value": "William James Beckham III v. D1 Sports Franchise, LLC, AAA Case No. 01-25-0003-7901 (demand filed 2025-08-11)",
+      "type": "absolute",
+      "item": "FDD Item 3, p.7"
+    },
+    "litigation_6": {
+      "value": "Michael Garrett and Jamber One LLC v. D1 Sports Franchise, LLC et al., Case No. 25CV-472 (Circuit Court, Williamson County, TN, filed 2025-08-04)",
+      "type": "absolute",
+      "item": "FDD Item 3, p.7"
+    },
+    "litigation_allegation_theme": {
+      "value": "Fraud/misrepresentation claims re franchise model viability, semi-absentee operation, financial performance, and support",
+      "type": "absolute",
+      "item": "FDD Item 3, pp.6-8"
+    },
+    "litigation_franchisor_posture": {
+      "value": "Franchisor initiated one arbitration and states it will defend vigorously / categorically denies material allegations",
+      "type": "absolute",
+      "item": "FDD Item 3, pp.6-8"
+    },
+    "bankruptcy_disclosed": {
+      "value": "None",
+      "type": "absolute",
+      "item": "FDD Item 4, p.10"
+    },
+    "initial_franchise_fee": {
+      "value": 59500,
+      "type": "absolute",
+      "item": "FDD Item 5, p.10"
+    },
+    "franchise_fee_second_unit": {
+      "value": 40000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "franchise_fee_third_unit": {
+      "value": 35000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "franchise_fee_fourth_unit": {
+      "value": 30000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "franchise_fee_refundable": {
+      "value": "No — fully earned when paid, not refundable",
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "development_fee_two_units": {
+      "value": 99500,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "development_fee_three_units": {
+      "value": 134500,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "development_fee_four_units": {
+      "value": 164500,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "opening_support_fee": {
+      "value": 29500,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11 — due 4 months from Effective Date"
+    },
+    "real_estate_services_fee": {
+      "value": 5000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "construction_pm_rate": {
+      "value": "6.5% of total build-out cost",
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "construction_pm_range": {
+      "value": "21,242 - 60,310 based on 2024 build-out costs",
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "equipment_cost": {
+      "value": 69000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11 — approx, excludes taxes/tariffs/duties"
+    },
+    "equipment_racks": {
+      "value": 7,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11 — standard configuration seven squat racks"
+    },
+    "initial_marketing_spend_low": {
+      "value": 10000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "initial_marketing_spend_high": {
+      "value": 20000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "initial_marketing_spend_avg": {
+      "value": 16000,
+      "type": "absolute",
+      "item": "FDD Item 7 note 4, p.18 — average spent last year"
+    },
+    "gps_software_monthly": {
+      "value": 320,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "tech_shared_services_low": {
+      "value": 700,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "tech_shared_services_high": {
+      "value": 750,
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "veteran_discount": {
+      "value": "10% off franchise fee or area development fee for qualifying veterans",
+      "type": "absolute",
+      "item": "FDD Item 5, p.11"
+    },
+    "royalty_terms": {
+      "value": "Greater of 7% of Gross Sales or the Minimum Royalty Fee",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "royalty_min_year1_monthly": {
+      "value": 1950,
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "royalty_min_year2_monthly": {
+      "value": 2450,
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "royalty_min_year3_monthly": {
+      "value": 2950,
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "brand_fund_terms": {
+      "value": "Greater of $250 per month or 2% of monthly Gross Sales",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "local_marketing_requirement": {
+      "value": "$100 per day, subject to 10-20% annual increases",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "local_ad_coop_max": {
+      "value": "1.5% of Gross Sales without cooperative approval",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "local_ad_coop_formed": {
+      "value": "No cooperatives formed as of the Issue Date",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "inventory_replenishment": {
+      "value": "Varies — D1-branded apparel and required inventory from us/affiliates",
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "late_payment_interest": {
+      "value": "Lower of 18% per annum or maximum rate allowed by law",
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "site_territory_change_fee": {
+      "value": 1000,
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "bad_payment_fee": {
+      "value": 100,
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "noncompliance_fee": {
+      "value": "$1,000 third infraction; $5,000 fourth infraction and each thereafter",
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "transfer_fee_franchise": {
+      "value": 7500,
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "transfer_fee_development": {
+      "value": 7500,
+      "type": "absolute",
+      "item": "FDD Item 6, p.14 — per territory"
+    },
+    "transfer_review_fee": {
+      "value": "Varies with circumstances",
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "renewal_fee": {
+      "value": 15000,
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "audit_fee_low": {
+      "value": 15000,
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "audit_fee_high": {
+      "value": 20000,
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "management_fee": {
+      "value": "3% of Gross Sales plus costs and expenses",
+      "type": "absolute",
+      "item": "FDD Item 6, p.15"
+    },
+    "additional_training_virtual": {
+      "value": 1000,
+      "type": "absolute",
+      "item": "FDD Item 6, p.15 — per week, up to 7 hours virtual"
+    },
+    "additional_training_onsite": {
+      "value": 500,
+      "type": "absolute",
+      "item": "FDD Item 6, p.15 — per day at Premises"
+    },
+    "gross_sales_definition": {
+      "value": "All revenue from operating the Business, incl. sublease/sponsorship; excludes sales taxes, documented refunds, approved discounts/credits",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "gift_card_gross_sales": {
+      "value": "Gift certificate/gift card payments included in Gross Sales at redemption",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "investment_min": {
+      "value": 480557,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "investment_max": {
+      "value": 933432,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "investment_avg_prototype": {
+      "value": 701143,
+      "type": "absolute",
+      "item": "FDD Item 7 note 5, p.18"
+    },
+    "leasehold_improvements_low": {
+      "value": 233765,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "leasehold_improvements_high": {
+      "value": 561156,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "cost_per_sqft_avg": {
+      "value": 113.81,
+      "type": "absolute",
+      "item": "FDD Item 7 note 5, p.18"
+    },
+    "cost_per_sqft_low": {
+      "value": 74.28,
+      "type": "absolute",
+      "item": "FDD Item 7 note 5, p.18"
+    },
+    "cost_per_sqft_high": {
+      "value": 195.29,
+      "type": "absolute",
+      "item": "FDD Item 7 note 5, p.18"
+    },
+    "ti_allowance_avg_psf": {
+      "value": 22.19,
+      "type": "absolute",
+      "item": "FDD Item 7 note 5, p.18"
+    },
+    "ti_allowance_max_psf": {
+      "value": 50,
+      "type": "absolute",
+      "item": "FDD Item 7 note 5, p.18"
+    },
+    "furniture_fixtures_low": {
+      "value": 1500,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "furniture_fixtures_high": {
+      "value": 3000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "cardio_equipment_low": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17 — $0 if financed"
+    },
+    "cardio_equipment_high": {
+      "value": 16341,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "opening_inventory_low": {
+      "value": 4250,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "opening_inventory_high": {
+      "value": 5000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "computer_software_low": {
+      "value": 5000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "computer_software_high": {
+      "value": 8000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "training_expenses_low": {
+      "value": 500,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "training_expenses_high": {
+      "value": 3000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "security_deposit_low": {
+      "value": 5714,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "security_deposit_high": {
+      "value": 26453,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "rent_3mo_low": {
+      "value": 9828,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "rent_3mo_high": {
+      "value": 54482,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "professional_fees_low": {
+      "value": 4000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "professional_fees_high": {
+      "value": 6000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "insurance_low": {
+      "value": 6000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "insurance_high": {
+      "value": 12000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "additional_funds_low": {
+      "value": 35000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "additional_funds_high": {
+      "value": 55000,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "affiliate_fees_nonrefundable": {
+      "value": "All fees payable to us or affiliates are not refundable",
+      "type": "absolute",
+      "item": "FDD Item 7 note 1, p.18"
+    },
+    "required_purchases": {
+      "value": "Apparel inventory; workout equipment; background checks; Grand Opening Kit; sales/marketing software; real estate review services; construction project management; field turf",
+      "type": "absolute",
+      "item": "FDD Item 8, p.21"
+    },
+    "approved_supplier_policy": {
+      "value": "Operating Assets must meet franchisor specifications; unapproved items need written approval (typically within 30 days)",
+      "type": "absolute",
+      "item": "FDD Item 8, p.21"
+    },
+    "financing_offered": {
+      "value": "No — we do not offer direct or indirect financing and do not guarantee your obligations",
+      "type": "absolute",
+      "item": "FDD Item 10, p.25"
+    },
+    "preopening_obligation_count": {
+      "value": 8,
+      "type": "absolute",
+      "item": "FDD Item 11, p.26 — eight listed pre-opening obligations"
+    },
+    "initial_training_duration": {
+      "value": "Approximately 1 week",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "initial_training_attendees": {
+      "value": "Franchisee and General Manager",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "initial_training_location": {
+      "value": "Headquarters or another location designated by us",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "grand_opening_support": {
+      "value": "On-site assistance with your grand opening",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "operations_manual": {
+      "value": "Online Operations Manuals and training modules",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "computer_system": {
+      "value": "MindBody, Scorpion, ProfitKeeper, website and website support, intranet, allotment of D1 email accounts",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "time_to_open_estimate": {
+      "value": "Within 365 days of signing the Franchise Agreement",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "site_approval_deadline_days": {
+      "value": 150,
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "lease_approval_deadline_days": {
+      "value": 180,
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "territory_exclusive": {
+      "value": "No — non-exclusive",
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "site_selection_area": {
+      "value": "Several zip codes encompassing approximately 7,500 to 20,000 households",
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "designated_territory": {
+      "value": "Radius around Premises varying from 0.20 mile to 3 miles",
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "territory_rural_basis": {
+      "value": "Approximately 7,500 households and/or 10,000 people aged 5 to 24",
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "franchisor_reserved_rights_count": {
+      "value": 8,
+      "type": "absolute",
+      "item": "FDD Item 12, pp.35-36 — eight reserved rights incl. personal-training concepts inside territory"
+    },
+    "relocation_requirement": {
+      "value": "Must identify approved new site within 90 days; relocation fee applies; minimum royalty/brand fund continue while closed",
+      "type": "absolute",
+      "item": "FDD Item 12, p.35"
+    },
+    "trademarks": {
+      "value": "D1 Training Facilities operate under the name D1 and other Marks periodically authorized",
+      "type": "absolute",
+      "item": "FDD Item 13, p.37"
+    },
+    "owner_operator_required": {
+      "value": "No — supervision recommended but not required",
+      "type": "absolute",
+      "item": "FDD Item 15, p.38"
+    },
+    "designated_representative": {
+      "value": "Entity franchisees must designate an approved representative with at least 5% ownership and decision-making authority",
+      "type": "absolute",
+      "item": "FDD Item 15, p.38"
+    },
+    "general_manager_required": {
+      "value": "Yes — full-time, franchisor-approved General Manager required",
+      "type": "absolute",
+      "item": "FDD Item 15, p.38"
+    },
+    "guaranty": {
+      "value": "Each owner signs a guaranty of the franchise entity's obligations; spouses consent in writing",
+      "type": "absolute",
+      "item": "FDD Item 15, p.38"
+    },
+    "franchisor_manager_rate": {
+      "value": "3% of Gross Sales plus costs if franchisor appoints a manager",
+      "type": "absolute",
+      "item": "FDD Item 15, p.38"
+    },
+    "sell_restrictions": {
+      "value": "Only approved products and services; no deviation without prior written approval",
+      "type": "absolute",
+      "item": "FDD Item 16, p.41"
+    },
+    "franchise_term_years": {
+      "value": 10,
+      "type": "absolute",
+      "item": "FDD Item 17, p.41"
+    },
+    "renewal_term_years": {
+      "value": 10,
+      "type": "absolute",
+      "item": "FDD Item 17, p.41 — one successive term"
+    },
+    "renewal_notice_days": {
+      "value": "180-270 days before expiration",
+      "type": "absolute",
+      "item": "FDD Item 17, p.42"
+    },
+    "post_term_noncompete": {
+      "value": "2 years, 10-mile radius of the Premises and of any other operating D1 Training Facility",
+      "type": "absolute",
+      "item": "FDD Item 17, p.46"
+    },
+    "dispute_resolution": {
+      "value": "Internal process, then mediation, then arbitration within 50 miles of Franklin, Tennessee; jury trial waived",
+      "type": "absolute",
+      "item": "FDD Item 17, p.46"
+    },
+    "governing_law": {
+      "value": "Tennessee (subject to state law)",
+      "type": "absolute",
+      "item": "FDD Item 17, p.47"
+    },
+    "choice_of_forum": {
+      "value": "Court in or nearest to Franklin, Tennessee",
+      "type": "absolute",
+      "item": "FDD Item 17, p.47"
+    },
+    "public_figures_owners": {
+      "value": "Marques Colston, Chris Paul, Peyton Manning, Tim Tebow, Philip Rivers, Michael Oher, Roy Hibbert, Rudy Gay, Von Miller, Joe Nathan, Chipper Jones, Jeff Green",
+      "type": "absolute",
+      "item": "FDD Item 18, p.48"
+    },
+    "public_figures_ads": {
+      "value": "Randall Cobb, Barry Cofield, Jacob Hester, Jeff Teague, Josh Hill, Sammy Watkins, Tre Boston, Jaylen Watkins",
+      "type": "absolute",
+      "item": "FDD Item 18, p.48"
+    },
+    "item19_measurement_period": {
+      "value": "2024-01-01 to 2024-12-31",
+      "type": "absolute",
+      "item": "FDD Item 19, p.49"
+    },
+    "item19_eligible_franchised": {
+      "value": 73,
+      "type": "absolute",
+      "item": "FDD Item 19, p.49"
+    },
+    "item19_reporting_franchised": {
+      "value": 42,
+      "type": "absolute",
+      "item": "FDD Item 19, p.49"
+    },
+    "item19_table2a_n": {
+      "value": 31,
+      "type": "absolute",
+      "item": "FDD Item 19, p.49 — substantially similar with full financial data"
+    },
+    "item19_avg_revenue": {
+      "value": 679601,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50 — Table II(A) average"
+    },
+    "item19_median_revenue": {
+      "value": 626384,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50"
+    },
+    "item19_high_revenue": {
+      "value": 1555472,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50"
+    },
+    "item19_low_revenue": {
+      "value": 261075,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50"
+    },
+    "item19_avg_royalty": {
+      "value": 47572,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50"
+    },
+    "item19_avg_marketing": {
+      "value": 45767,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50"
+    },
+    "item19_avg_labor": {
+      "value": 319015,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50"
+    },
+    "item19_avg_net_disclosed": {
+      "value": 275965,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50 — revenue less disclosed expenses"
+    },
+    "item19_table2b_n": {
+      "value": 11,
+      "type": "absolute",
+      "item": "FDD Item 19, p.49 — not substantially similar"
+    },
+    "item19_table2b_avg_revenue": {
+      "value": 374399,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50"
+    },
+    "item19_corporate_revenue": {
+      "value": 1744855,
+      "type": "absolute",
+      "item": "FDD Item 19, p.50 — Table I single corporate outlet"
+    },
+    "item19_rent_avg": {
+      "value": 125296.78,
+      "type": "absolute",
+      "item": "FDD Item 19, p.51 — Table III average gross rent"
+    },
+    "item19_rent_median": {
+      "value": 123523.6,
+      "type": "absolute",
+      "item": "FDD Item 19, p.51"
+    },
+    "item19_presales_avg_sales": {
+      "value": 45069,
+      "type": "absolute",
+      "item": "FDD Item 19, p.51 — Table IV"
+    },
+    "item19_presales_avg_autopay": {
+      "value": 24771,
+      "type": "absolute",
+      "item": "FDD Item 19, p.51"
+    },
+    "item20_total_2024": {
+      "value": 129,
+      "type": "absolute",
+      "item": "FDD Item 20, p.53 — Table No. 1"
+    },
+    "item20_franchised_2024": {
+      "value": 127,
+      "type": "absolute",
+      "item": "FDD Item 20, p.53"
+    },
+    "item20_company_owned_2024": {
+      "value": 2,
+      "type": "absolute",
+      "item": "FDD Item 20, p.53"
+    },
+    "item20_total_2023": {
+      "value": 91,
+      "type": "absolute",
+      "item": "FDD Item 20, p.53"
+    },
+    "item20_total_2022_start": {
+      "value": 63,
+      "type": "absolute",
+      "item": "FDD Item 20, p.53"
+    },
+    "item20_net_change_2024": {
+      "value": 38,
+      "type": "absolute",
+      "item": "FDD Item 20, p.53"
+    },
+    "item20_net_change_2023": {
+      "value": 12,
+      "type": "absolute",
+      "item": "FDD Item 20, p.53"
+    },
+    "item20_net_change_2022": {
+      "value": 16,
+      "type": "absolute",
+      "item": "FDD Item 20, p.53"
+    },
+    "item20_terminations_2022_2024": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 20, pp.53-56 — terminations column shows 0 across state rows"
+    },
+    "item20_current_systemwide": {
+      "value": 165,
+      "type": "absolute",
+      "item": "PR Newswire 2026-01-27 (non-FDD): over 165 training facilities nationwide at end of 2025"
+    },
+    "item20_exhibit_g_entries_parsed": {
+      "value": 122,
+      "type": "absolute",
+      "item": "FDD Exhibit G, pp.207-213 — city/state/ZIP rows parsed from operational franchisee list"
+    },
+    "financial_statements": {
+      "value": "Audited financial statements attached as Exhibit D",
+      "type": "absolute",
+      "item": "FDD Item 21, p.57"
+    },
+    "contracts_exhibit": {
+      "value": "Franchise Agreement (Exhibit B); Area Development Agreement (Exhibit C)",
+      "type": "absolute",
+      "item": "FDD Item 22, p.57"
+    },
+    "receipts_exhibit": {
+      "value": "Receipts attached as Exhibit J",
+      "type": "absolute",
+      "item": "FDD Item 23, p.57"
+    },
+    "risk_score": {
+      "value": 54,
+      "type": "theoretical",
+      "item": "THEORETICAL — method: base 15 +25 active litigation (6 pending matters, fraud allegations) +10 high capital ceiling ($933,432) +5 non-exclusive territory +5 partial Item-19 coverage (42 of 73 eligible) -4 zero terminations 2022-24 -2 strong unit growth (+38 net in 2024) = 54/100"
+    },
+    "closure_rate_estimate_pct": {
+      "value": 2,
+      "type": "theoretical",
+      "item": "THEORETICAL — method: Item 20 Table No.1 net growth + state rows show 0 terminations; small ceased-operations counts imply low-single-digit annual closure rate; labeled estimate"
+    },
+    "payback_period": {
+      "value": "insufficient-data",
+      "type": "theoretical",
+      "item": "THEORETICAL — method: FDD discloses no net-income or profit figure; cannot compute payback from revenue alone — labeled insufficient-data honestly"
+    },
+    "fee_burden_ratio_pct": {
+      "value": 12.4,
+      "type": "theoretical",
+      "item": "THEORETICAL — method: franchise fee $59,500 / Item 7 minimum investment $480,557 = 12.38%"
+    },
+    "unit_growth_2022_2024_pct": {
+      "value": 63.3,
+      "type": "theoretical",
+      "item": "THEORETICAL — method: (129 - 79) / 79 = 63.3% growth from end-2022 to end-2024 (Item 20 Table No.1)"
+    },
+    "support_score_estimate": {
+      "value": 8,
+      "type": "theoretical",
+      "item": "THEORETICAL — method: scale 1-10: 8 pre-opening obligations, 1-week HQ training, on-site grand opening, ops manual, MindBody/Scorpion/ProfitKeeper stack; labeled estimate"
+    },
+    "litigation_risk_flag": {
+      "value": "HIGH",
+      "type": "theoretical",
+      "item": "THEORETICAL — method: 6 pending 2025 matters; 4 allege fraud/misrepresentation with >$4M claimed in one case"
+    },
+    "item19_confidence": {
+      "value": "STRONG",
+      "type": "theoretical",
+      "item": "THEORETICAL — method: Table II(A): n=31 substantially similar franchised outlets with full financial data"
+    },
+    "saturation_index": {
+      "value": "low",
+      "type": "theoretical",
+      "item": "THEORETICAL — method: 165+ units spread across 30+ states per Exhibit G/PR Newswire; labeled estimate"
+    },
+    "match_capital_min": {
+      "value": 480557,
+      "type": "matching",
+      "item": "MATCHING — method: Item 7 low-end investment"
+    },
+    "match_capital_target": {
+      "value": 701143,
+      "type": "matching",
+      "item": "MATCHING — method: Item 7 average prototype investment (note 5, p.18)"
+    },
+    "match_experience": {
+      "value": "Athletic/fitness background helpful; full-time General Manager required",
+      "type": "matching",
+      "item": "MATCHING — method: Item 15, p.38"
+    },
+    "match_operational": {
+      "value": "Owner-operator optional; full-time GM required; Designated Representative for entities",
+      "type": "matching",
+      "item": "MATCHING — method: Item 15, p.38"
+    },
+    "match_lifestyle": {
+      "value": "Semi-absentee possible per FDD (owner supervision recommended, not required)",
+      "type": "matching",
+      "item": "MATCHING — method: Item 15, p.38"
+    },
+    "match_risk_appetite": {
+      "value": "Moderate-high: 6 pending litigation matters; capital-intensive build-out",
+      "type": "matching",
+      "item": "MATCHING — method: risk inputs: Item 3 + Item 7"
+    },
+    "match_location": {
+      "value": "US, 4,000-5,000 sq ft retail; franchisor site/lease approval required",
+      "type": "matching",
+      "item": "MATCHING — method: Item 1 p.4 + Item 11 p.26"
+    },
+    "match_timeline": {
+      "value": "Open within 365 days of signing",
+      "type": "matching",
+      "item": "MATCHING — method: Item 11, p.26"
+    },
+    "netWorthRequirement": "not disclosed in FDD",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirement": "not disclosed in FDD",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "pinVerification": {
+      "run_at": "2026-09-13T01:36:02Z",
+      "all_verified": true,
+      "pins_total": 8
+    },
+    "pinsUpdatedAt": "2026-09-13T01:36:02Z"
+  },
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-13T01:36:02Z",
+    "pins_total": 8,
+    "pins_verified": 8,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Birmingham",
+        "state": "AL",
+        "stored": [
+          33.55367,
+          -86.81899
+        ],
+        "geocoded": [
+          33.5206824,
+          -86.8024326
+        ],
+        "distance_km": 3.98,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Rogers",
+        "state": "AR",
+        "stored": [
+          36.33493,
+          -94.14634
+        ],
+        "geocoded": [
+          36.334857,
+          -94.1193816
+        ],
+        "distance_km": 2.41,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Chandler",
+        "state": "AZ",
+        "stored": [
+          33.29778,
+          -111.9019
+        ],
+        "geocoded": [
+          33.3062031,
+          -111.841185
+        ],
+        "distance_km": 5.72,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Scottsdale",
+        "state": "AZ",
+        "stored": [
+          33.49156,
+          -111.92612
+        ],
+        "geocoded": [
+          33.4942189,
+          -111.926018
+        ],
+        "distance_km": 0.3,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Mission Viejo",
+        "state": "CA",
+        "stored": [
+          33.56056,
+          -117.66755
+        ],
+        "geocoded": [
+          33.5965685,
+          -117.659405
+        ],
+        "distance_km": 4.07,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Pleasanton",
+        "state": "CA",
+        "stored": [
+          37.65849,
+          -121.88422
+        ],
+        "geocoded": [
+          37.6624312,
+          -121.8746789
+        ],
+        "distance_km": 0.95,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Littleton",
+        "state": "CO",
+        "stored": [
+          39.6133,
+          -105.00441
+        ],
+        "geocoded": [
+          39.613321,
+          -105.016649
+        ],
+        "distance_km": 1.05,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "Tallahassee",
+        "state": "FL",
+        "stored": [
+          30.40652,
+          -84.28233
+        ],
+        "geocoded": [
+          30.4380832,
+          -84.2809332
+        ],
+        "distance_km": 3.51,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-13T01:36:02Z",
+  "risk_method": "base 15 + litigation 25 + capital_intensity 10 + non_exclusive_territory 5 + partial_item19_coverage 5 - zero_terminations 4 - unit_growth 2 = 54",
+  "risk_components": [
+    {
+      "name": "litigation",
+      "weight": 25,
+      "note": "FDD Item 3"
+    },
+    {
+      "name": "capital_intensity",
+      "weight": 10,
+      "note": "FDD Item 7"
+    },
+    {
+      "name": "non_exclusive_territory",
+      "weight": 5,
+      "note": "FDD Item 12"
+    },
+    {
+      "name": "partial_item19_coverage",
+      "weight": 5,
+      "note": "FDD Item 19"
+    },
+    {
+      "name": "zero_terminations",
+      "weight": -4,
+      "note": "FDD Item 20"
+    },
+    {
+      "name": "unit_growth",
+      "weight": -2,
+      "note": "FDD Item 20"
+    }
+  ],
+  "risk_source": "page Method text"
+}
