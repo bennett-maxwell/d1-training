@@ -127,7 +127,7 @@
       "item": "FDD Item 1, p.1"
     },
     "operates_other_concepts": {
-      "value": "No — formed to offer, sell and service franchises for D1 Training Facilities only",
+      "value": "No \u2014 formed to offer, sell and service franchises for D1 Training Facilities only",
       "type": "absolute",
       "item": "FDD Item 1, p.1"
     },
@@ -219,7 +219,7 @@
     "year_franchising_began": {
       "value": 2015,
       "type": "absolute",
-      "item": "FDD Item 1, p.4 — began offering franchises May 14, 2015"
+      "item": "FDD Item 1, p.4 \u2014 began offering franchises May 14, 2015"
     },
     "prototype_size_sqft": {
       "value": "4,000 to 5,000; average go-forward site approximately 4,300",
@@ -229,7 +229,7 @@
     "prototype_min_racks": {
       "value": 7,
       "type": "absolute",
-      "item": "FDD Item 7, p.18 — minimum of 7 squat racks"
+      "item": "FDD Item 7, p.18 \u2014 minimum of 7 squat racks"
     },
     "business_description": {
       "value": "Training facilities offering athletic-based scholastic and adult group training, coaching and personal training, and related goods and services, under the D1 Marks",
@@ -314,7 +314,7 @@
     "litigation_pending_count": {
       "value": 6,
       "type": "absolute",
-      "item": "FDD Item 3, pp.6-8 — six disclosed pending matters"
+      "item": "FDD Item 3, pp.6-8 \u2014 six disclosed pending matters"
     },
     "litigation_1": {
       "value": "D1 Sports Franchise, LLC v. Alex Nicholas, Chase Howard, Francesco Amati, Joel Wildman and D1 North Naples, LLC, AAA Case No. 012500017990 (filed 2025-04-10)",
@@ -382,7 +382,7 @@
       "item": "FDD Item 5, p.11"
     },
     "franchise_fee_refundable": {
-      "value": "No — fully earned when paid, not refundable",
+      "value": "No \u2014 fully earned when paid, not refundable",
       "type": "absolute",
       "item": "FDD Item 5, p.11"
     },
@@ -404,7 +404,7 @@
     "opening_support_fee": {
       "value": 29500,
       "type": "absolute",
-      "item": "FDD Item 5, p.11 — due 4 months from Effective Date"
+      "item": "FDD Item 5, p.11 \u2014 due 4 months from Effective Date"
     },
     "real_estate_services_fee": {
       "value": 5000,
@@ -424,12 +424,12 @@
     "equipment_cost": {
       "value": 69000,
       "type": "absolute",
-      "item": "FDD Item 5, p.11 — approx, excludes taxes/tariffs/duties"
+      "item": "FDD Item 5, p.11 \u2014 approx, excludes taxes/tariffs/duties"
     },
     "equipment_racks": {
       "value": 7,
       "type": "absolute",
-      "item": "FDD Item 5, p.11 — standard configuration seven squat racks"
+      "item": "FDD Item 5, p.11 \u2014 standard configuration seven squat racks"
     },
     "initial_marketing_spend_low": {
       "value": 10000,
@@ -444,7 +444,7 @@
     "initial_marketing_spend_avg": {
       "value": 16000,
       "type": "absolute",
-      "item": "FDD Item 7 note 4, p.18 — average spent last year"
+      "item": "FDD Item 7 note 4, p.18 \u2014 average spent last year"
     },
     "gps_software_monthly": {
       "value": 320,
@@ -507,7 +507,7 @@
       "item": "FDD Item 6, p.13"
     },
     "inventory_replenishment": {
-      "value": "Varies — D1-branded apparel and required inventory from us/affiliates",
+      "value": "Varies \u2014 D1-branded apparel and required inventory from us/affiliates",
       "type": "absolute",
       "item": "FDD Item 6, p.14"
     },
@@ -539,7 +539,7 @@
     "transfer_fee_development": {
       "value": 7500,
       "type": "absolute",
-      "item": "FDD Item 6, p.14 — per territory"
+      "item": "FDD Item 6, p.14 \u2014 per territory"
     },
     "transfer_review_fee": {
       "value": "Varies with circumstances",
@@ -569,12 +569,12 @@
     "additional_training_virtual": {
       "value": 1000,
       "type": "absolute",
-      "item": "FDD Item 6, p.15 — per week, up to 7 hours virtual"
+      "item": "FDD Item 6, p.15 \u2014 per week, up to 7 hours virtual"
     },
     "additional_training_onsite": {
       "value": 500,
       "type": "absolute",
-      "item": "FDD Item 6, p.15 — per day at Premises"
+      "item": "FDD Item 6, p.15 \u2014 per day at Premises"
     },
     "gross_sales_definition": {
       "value": "All revenue from operating the Business, incl. sublease/sponsorship; excludes sales taxes, documented refunds, approved discounts/credits",
@@ -649,7 +649,7 @@
     "cardio_equipment_low": {
       "value": 0,
       "type": "absolute",
-      "item": "FDD Item 7, p.17 — $0 if financed"
+      "item": "FDD Item 7, p.17 \u2014 $0 if financed"
     },
     "cardio_equipment_high": {
       "value": 16341,
@@ -752,14 +752,14 @@
       "item": "FDD Item 8, p.21"
     },
     "financing_offered": {
-      "value": "No — we do not offer direct or indirect financing and do not guarantee your obligations",
+      "value": "No \u2014 we do not offer direct or indirect financing and do not guarantee your obligations",
       "type": "absolute",
       "item": "FDD Item 10, p.25"
     },
     "preopening_obligation_count": {
       "value": 8,
       "type": "absolute",
-      "item": "FDD Item 11, p.26 — eight listed pre-opening obligations"
+      "item": "FDD Item 11, p.26 \u2014 eight listed pre-opening obligations"
     },
     "initial_training_duration": {
       "value": "Approximately 1 week",
@@ -807,7 +807,7 @@
       "item": "FDD Item 11, p.26"
     },
     "territory_exclusive": {
-      "value": "No — non-exclusive",
+      "value": "No \u2014 non-exclusive",
       "type": "absolute",
       "item": "FDD Item 12, p.34"
     },
@@ -829,7 +829,7 @@
     "franchisor_reserved_rights_count": {
       "value": 8,
       "type": "absolute",
-      "item": "FDD Item 12, pp.35-36 — eight reserved rights incl. personal-training concepts inside territory"
+      "item": "FDD Item 12, pp.35-36 \u2014 eight reserved rights incl. personal-training concepts inside territory"
     },
     "relocation_requirement": {
       "value": "Must identify approved new site within 90 days; relocation fee applies; minimum royalty/brand fund continue while closed",
@@ -842,7 +842,7 @@
       "item": "FDD Item 13, p.37"
     },
     "owner_operator_required": {
-      "value": "No — supervision recommended but not required",
+      "value": "No \u2014 supervision recommended but not required",
       "type": "absolute",
       "item": "FDD Item 15, p.38"
     },
@@ -852,7 +852,7 @@
       "item": "FDD Item 15, p.38"
     },
     "general_manager_required": {
-      "value": "Yes — full-time, franchisor-approved General Manager required",
+      "value": "Yes \u2014 full-time, franchisor-approved General Manager required",
       "type": "absolute",
       "item": "FDD Item 15, p.38"
     },
@@ -879,7 +879,7 @@
     "renewal_term_years": {
       "value": 10,
       "type": "absolute",
-      "item": "FDD Item 17, p.41 — one successive term"
+      "item": "FDD Item 17, p.41 \u2014 one successive term"
     },
     "renewal_notice_days": {
       "value": "180-270 days before expiration",
@@ -934,12 +934,12 @@
     "item19_table2a_n": {
       "value": 31,
       "type": "absolute",
-      "item": "FDD Item 19, p.49 — substantially similar with full financial data"
+      "item": "FDD Item 19, p.49 \u2014 substantially similar with full financial data"
     },
     "item19_avg_revenue": {
       "value": 679601,
       "type": "absolute",
-      "item": "FDD Item 19, p.50 — Table II(A) average"
+      "item": "FDD Item 19, p.50 \u2014 Table II(A) average"
     },
     "item19_median_revenue": {
       "value": 626384,
@@ -974,12 +974,12 @@
     "item19_avg_net_disclosed": {
       "value": 275965,
       "type": "absolute",
-      "item": "FDD Item 19, p.50 — revenue less disclosed expenses"
+      "item": "FDD Item 19, p.50 \u2014 revenue less disclosed expenses"
     },
     "item19_table2b_n": {
       "value": 11,
       "type": "absolute",
-      "item": "FDD Item 19, p.49 — not substantially similar"
+      "item": "FDD Item 19, p.49 \u2014 not substantially similar"
     },
     "item19_table2b_avg_revenue": {
       "value": 374399,
@@ -989,12 +989,12 @@
     "item19_corporate_revenue": {
       "value": 1744855,
       "type": "absolute",
-      "item": "FDD Item 19, p.50 — Table I single corporate outlet"
+      "item": "FDD Item 19, p.50 \u2014 Table I single corporate outlet"
     },
     "item19_rent_avg": {
       "value": 125296.78,
       "type": "absolute",
-      "item": "FDD Item 19, p.51 — Table III average gross rent"
+      "item": "FDD Item 19, p.51 \u2014 Table III average gross rent"
     },
     "item19_rent_median": {
       "value": 123523.6,
@@ -1004,7 +1004,7 @@
     "item19_presales_avg_sales": {
       "value": 45069,
       "type": "absolute",
-      "item": "FDD Item 19, p.51 — Table IV"
+      "item": "FDD Item 19, p.51 \u2014 Table IV"
     },
     "item19_presales_avg_autopay": {
       "value": 24771,
@@ -1014,7 +1014,7 @@
     "item20_total_2024": {
       "value": 129,
       "type": "absolute",
-      "item": "FDD Item 20, p.53 — Table No. 1"
+      "item": "FDD Item 20, p.53 \u2014 Table No. 1"
     },
     "item20_franchised_2024": {
       "value": 127,
@@ -1054,7 +1054,7 @@
     "item20_terminations_2022_2024": {
       "value": 0,
       "type": "absolute",
-      "item": "FDD Item 20, pp.53-56 — terminations column shows 0 across state rows"
+      "item": "FDD Item 20, pp.53-56 \u2014 terminations column shows 0 across state rows"
     },
     "item20_current_systemwide": {
       "value": 165,
@@ -1064,7 +1064,7 @@
     "item20_exhibit_g_entries_parsed": {
       "value": 122,
       "type": "absolute",
-      "item": "FDD Exhibit G, pp.207-213 — city/state/ZIP rows parsed from operational franchisee list"
+      "item": "FDD Exhibit G, pp.207-213 \u2014 city/state/ZIP rows parsed from operational franchisee list"
     },
     "financial_statements": {
       "value": "Audited financial statements attached as Exhibit D",
@@ -1084,92 +1084,92 @@
     "risk_score": {
       "value": 54,
       "type": "theoretical",
-      "item": "THEORETICAL — method: base 15 +25 active litigation (6 pending matters, fraud allegations) +10 high capital ceiling ($933,432) +5 non-exclusive territory +5 partial Item-19 coverage (42 of 73 eligible) -4 zero terminations 2022-24 -2 strong unit growth (+38 net in 2024) = 54/100"
+      "item": "THEORETICAL \u2014 method: base 15 +25 active litigation (6 pending matters, fraud allegations) +10 high capital ceiling ($933,432) +5 non-exclusive territory +5 partial Item-19 coverage (42 of 73 eligible) -4 zero terminations 2022-24 -2 strong unit growth (+38 net in 2024) = 54/100"
     },
     "closure_rate_estimate_pct": {
       "value": 2,
       "type": "theoretical",
-      "item": "THEORETICAL — method: Item 20 Table No.1 net growth + state rows show 0 terminations; small ceased-operations counts imply low-single-digit annual closure rate; labeled estimate"
+      "item": "THEORETICAL \u2014 method: Item 20 Table No.1 net growth + state rows show 0 terminations; small ceased-operations counts imply low-single-digit annual closure rate; labeled estimate"
     },
     "payback_period": {
       "value": "insufficient-data",
       "type": "theoretical",
-      "item": "THEORETICAL — method: FDD discloses no net-income or profit figure; cannot compute payback from revenue alone — labeled insufficient-data honestly"
+      "item": "THEORETICAL \u2014 method: FDD discloses no net-income or profit figure; cannot compute payback from revenue alone \u2014 labeled insufficient-data honestly"
     },
     "fee_burden_ratio_pct": {
       "value": 12.4,
       "type": "theoretical",
-      "item": "THEORETICAL — method: franchise fee $59,500 / Item 7 minimum investment $480,557 = 12.38%"
+      "item": "THEORETICAL \u2014 method: franchise fee $59,500 / Item 7 minimum investment $480,557 = 12.38%"
     },
     "unit_growth_2022_2024_pct": {
       "value": 63.3,
       "type": "theoretical",
-      "item": "THEORETICAL — method: (129 - 79) / 79 = 63.3% growth from end-2022 to end-2024 (Item 20 Table No.1)"
+      "item": "THEORETICAL \u2014 method: (129 - 79) / 79 = 63.3% growth from end-2022 to end-2024 (Item 20 Table No.1)"
     },
     "support_score_estimate": {
       "value": 8,
       "type": "theoretical",
-      "item": "THEORETICAL — method: scale 1-10: 8 pre-opening obligations, 1-week HQ training, on-site grand opening, ops manual, MindBody/Scorpion/ProfitKeeper stack; labeled estimate"
+      "item": "THEORETICAL \u2014 method: scale 1-10: 8 pre-opening obligations, 1-week HQ training, on-site grand opening, ops manual, MindBody/Scorpion/ProfitKeeper stack; labeled estimate"
     },
     "litigation_risk_flag": {
       "value": "HIGH",
       "type": "theoretical",
-      "item": "THEORETICAL — method: 6 pending 2025 matters; 4 allege fraud/misrepresentation with >$4M claimed in one case"
+      "item": "THEORETICAL \u2014 method: 6 pending 2025 matters; 4 allege fraud/misrepresentation with >$4M claimed in one case"
     },
     "item19_confidence": {
       "value": "STRONG",
       "type": "theoretical",
-      "item": "THEORETICAL — method: Table II(A): n=31 substantially similar franchised outlets with full financial data"
+      "item": "THEORETICAL \u2014 method: Table II(A): n=31 substantially similar franchised outlets with full financial data"
     },
     "saturation_index": {
       "value": "low",
       "type": "theoretical",
-      "item": "THEORETICAL — method: 165+ units spread across 30+ states per Exhibit G/PR Newswire; labeled estimate"
+      "item": "THEORETICAL \u2014 method: 165+ units spread across 30+ states per Exhibit G/PR Newswire; labeled estimate"
     },
     "match_capital_min": {
       "value": 480557,
       "type": "matching",
-      "item": "MATCHING — method: Item 7 low-end investment"
+      "item": "MATCHING \u2014 method: Item 7 low-end investment"
     },
     "match_capital_target": {
       "value": 701143,
       "type": "matching",
-      "item": "MATCHING — method: Item 7 average prototype investment (note 5, p.18)"
+      "item": "MATCHING \u2014 method: Item 7 average prototype investment (note 5, p.18)"
     },
     "match_experience": {
       "value": "Athletic/fitness background helpful; full-time General Manager required",
       "type": "matching",
-      "item": "MATCHING — method: Item 15, p.38"
+      "item": "MATCHING \u2014 method: Item 15, p.38"
     },
     "match_operational": {
       "value": "Owner-operator optional; full-time GM required; Designated Representative for entities",
       "type": "matching",
-      "item": "MATCHING — method: Item 15, p.38"
+      "item": "MATCHING \u2014 method: Item 15, p.38"
     },
     "match_lifestyle": {
       "value": "Semi-absentee possible per FDD (owner supervision recommended, not required)",
       "type": "matching",
-      "item": "MATCHING — method: Item 15, p.38"
+      "item": "MATCHING \u2014 method: Item 15, p.38"
     },
     "match_risk_appetite": {
       "value": "Moderate-high: 6 pending litigation matters; capital-intensive build-out",
       "type": "matching",
-      "item": "MATCHING — method: risk inputs: Item 3 + Item 7"
+      "item": "MATCHING \u2014 method: risk inputs: Item 3 + Item 7"
     },
     "match_location": {
       "value": "US, 4,000-5,000 sq ft retail; franchisor site/lease approval required",
       "type": "matching",
-      "item": "MATCHING — method: Item 1 p.4 + Item 11 p.26"
+      "item": "MATCHING \u2014 method: Item 1 p.4 + Item 11 p.26"
     },
     "match_timeline": {
       "value": "Open within 365 days of signing",
       "type": "matching",
-      "item": "MATCHING — method: Item 11, p.26"
+      "item": "MATCHING \u2014 method: Item 11, p.26"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
       "run_at": "2026-09-13T01:36:02Z",
       "all_verified": true,
@@ -1178,16 +1178,16 @@
     "pinsUpdatedAt": "2026-09-13T01:36:02Z"
   },
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
-    "run_at": "2026-09-13T01:36:02Z",
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
+    "run_utc": "2026-09-15T02:15:24.081920+00:00",
     "pins_total": 8,
     "pins_verified": 8,
-    "pins_unverifiable": 0,
     "pins_mismatch": 0,
+    "pins_unverifiable": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1199,8 +1199,8 @@
           -86.81899
         ],
         "geocoded": [
-          33.5206824,
-          -86.8024326
+          33.520682,
+          -86.802433
         ],
         "distance_km": 3.98,
         "status": "VERIFIED"
@@ -1215,7 +1215,7 @@
         ],
         "geocoded": [
           36.334857,
-          -94.1193816
+          -94.119382
         ],
         "distance_km": 2.41,
         "status": "VERIFIED"
@@ -1229,7 +1229,7 @@
           -111.9019
         ],
         "geocoded": [
-          33.3062031,
+          33.306203,
           -111.841185
         ],
         "distance_km": 5.72,
@@ -1244,7 +1244,7 @@
           -111.92612
         ],
         "geocoded": [
-          33.4942189,
+          33.494219,
           -111.926018
         ],
         "distance_km": 0.3,
@@ -1259,7 +1259,7 @@
           -117.66755
         ],
         "geocoded": [
-          33.5965685,
+          33.596568,
           -117.659405
         ],
         "distance_km": 4.07,
@@ -1274,8 +1274,8 @@
           -121.88422
         ],
         "geocoded": [
-          37.6624312,
-          -121.8746789
+          37.662431,
+          -121.874679
         ],
         "distance_km": 0.95,
         "status": "VERIFIED"
@@ -1304,15 +1304,15 @@
           -84.28233
         ],
         "geocoded": [
-          30.4380832,
-          -84.2809332
+          30.438083,
+          -84.280933
         ],
         "distance_km": 3.51,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-13T01:36:02Z",
+  "pinsUpdatedAt": "2026-09-15T02:15:24.081920+00:00",
   "risk_method": "base 15 + litigation 25 + capital_intensity 10 + non_exclusive_territory 5 + partial_item19_coverage 5 - zero_terminations 4 - unit_growth 2 = 54",
   "risk_components": [
     {
@@ -1346,5 +1346,7 @@
       "note": "FDD Item 20"
     }
   ],
-  "risk_source": "page Method text"
+  "risk_source": "page Method text",
+  "logoUrl": "https://staging.d1training.com/D1-logo.svg",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*"
 }
