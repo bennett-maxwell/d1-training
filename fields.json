@@ -122,9 +122,9 @@
    "item": "FDD Item 1, p.1"
   },
   "dba_name": {
-   "value": "D1",
+   "value": "D1 Training",
    "type": "absolute",
-   "item": "FDD Item 1, p.1"
+   "item": "FDD Item 1: 'we began offering franchises for D1 Training Facilities' (own pdftotext -layout parse 2026-09-15, line 506); franchise operates under the D1 name and marks (cover)"
   },
   "operates_other_concepts": {
    "value": "No — formed to offer, sell and service franchises for D1 Training Facilities only",
